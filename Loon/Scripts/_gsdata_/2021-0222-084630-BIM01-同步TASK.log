@@ -1,0 +1,120 @@
+2021-02-22 08:46:30: -- 分析开始 User Command
+2021-02-22 08:46:30: 左侧: State file does not exist: D:/iCloudDrive/iCloud~com~crossutility~quantumult-x/Scripts/_gsdata_/_file_state_v4._gs
+2021-02-22 08:46:30: 右侧: State file does not exist: D:/iCloudDrive/iCloud~com~ruikq~decar/Scripts/_gsdata_/_file_state_v4._gs
+2021-02-22 08:46:30: /BBB.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /elemCheckIn.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /getJDCookie.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /index.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_5g.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_baiTiao.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_bean_change.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_blueCoin.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_car.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_club_lottery.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_coupon.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /JD_DailyBonus.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_family.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_fruit.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_get_share_code.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_immortal.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_jdfactory.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_jdzz.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_joy_feedPets.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_joy_reward.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_joy_run.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_kd.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_moneyTree.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_ms.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_necklace.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_newYearMoney.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_nian_ar.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_nianCollect.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_nzmh.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_pet.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_rankingList.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_small_home.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_speed.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_super.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_super_box.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_superMarket.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jd_xg.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jdCookie.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jddj.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jdDreamFactoryShareCodes.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jdFruitShareCodes.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jdJxncShareCodes.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jdJxncTokens.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jdPetShareCodes.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jx_factory_component.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jx_nc.cookie.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jx_nc.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jx_sign.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /jx_tokens.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /package-lock.json: 冲突: 新文件有变化
+2021-02-22 08:46:30: /sendNotify.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /tencentscf.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /USER_AGENTS.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /wps.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: /ximalaya.js: 冲突: 新文件有变化
+2021-02-22 08:46:30: 分析完毕并发现冲突情况。请选择正确的同步方向解决冲突，然后单击同步
+2021-02-22 08:46:30: 变更：55， 冲突：55， 复制时间：0， 复制状态：49， 错误： 0, All: 105
+2021-02-22 08:46:30: -- 分析已结束。历时 00:00:00, 速度： Many 文件/秒
+2021-02-22 08:46:30: 
+2021-02-22 08:47:14: == 同步开始由 User Command
+2021-02-22 08:47:14: /BBB.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /elemCheckIn.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /getJDCookie.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /index.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_5g.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_baiTiao.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_bean_change.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_blueCoin.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_car.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_club_lottery.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_coupon.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /JD_DailyBonus.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_family.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_fruit.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_get_share_code.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_immortal.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_jdfactory.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_jdzz.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_joy_feedPets.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_joy_reward.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_joy_run.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_kd.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_moneyTree.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_ms.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_necklace.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_newYearMoney.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_nian_ar.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_nianCollect.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_nzmh.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_pet.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_rankingList.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_small_home.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_speed.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_super.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_super_box.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_superMarket.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jd_xg.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jdCookie.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jddj.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jdDreamFactoryShareCodes.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jdFruitShareCodes.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jdJxncShareCodes.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jdJxncTokens.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jdPetShareCodes.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jx_factory_component.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jx_nc.cookie.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jx_nc.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jx_sign.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /jx_tokens.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /package-lock.json: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /sendNotify.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /tencentscf.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /USER_AGENTS.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /wps.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: /ximalaya.js: unresolved conflict results in No Copy
+2021-02-22 08:47:14: == 同步完成. 历时: 00:00:00, 速度: 0 字节/s, 完成: 49, 错误: 0
+2021-02-22 08:47:14: 
