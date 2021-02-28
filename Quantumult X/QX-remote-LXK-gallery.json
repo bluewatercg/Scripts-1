@@ -1,5 +1,5 @@
 ﻿{
- "name": "wlup",
+ "name": "lxk0301",
  "description": "https://github.com/utterliar1/Scripts/master",
  "task": [
     "2 9 * * * https://raw.githubusercontent.com/utterliar1/Scripts/master/JS-bak/lxk0301/Jjd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
