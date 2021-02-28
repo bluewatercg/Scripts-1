@@ -15,6 +15,6 @@ I am not responsible for any consequences.
 
 * [@ziye12](https://github.com/ziye12/JavaScript)
 
-* [Tartarus2014](https://github.com/Tartarus2014)
+* [@Tartarus2014](https://github.com/Tartarus2014)
 
-* [Orz-3](https://github.com/Orz-3)
+* [@Orz-3](https://github.com/Orz-3)
