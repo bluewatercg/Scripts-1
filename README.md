@@ -4,18 +4,18 @@ I am not responsible for any consequences.
 
 (´▽`ʃ♡ƪ) Thanks:  
 
-* [@NobyDa](https://github.com/NobyDa)
+[@NobyDa](https://github.com/NobyDa)
 
-* [@chavyleung](https://github.com/chavyleung)
+[@chavyleung](https://github.com/chavyleung)
 
-* [@yichahucha](https://github.com/yichahucha)
+[@yichahucha](https://github.com/yichahucha)
 
-* [@Meeta](https://github.com/MeetaGit)
+[@Meeta](https://github.com/MeetaGit)
 
-* [@lxk0301](https://github.com/lxk0301)
+[@lxk0301](https://github.com/lxk0301)
 
-* [@ziye12](https://github.com/ziye12/JavaScript)
+[@ziye12](https://github.com/ziye12/JavaScript)
 
-* [@Tartarus2014](https://github.com/Tartarus2014)
+[@Tartarus2014](https://github.com/Tartarus2014)
 
-* [@Orz-3](https://github.com/Orz-3)
+[@Orz-3](https://github.com/Orz-3)
